@@ -1,0 +1,8 @@
+C:\Users\perfe\OneDrive\ЯрГУ\Алгоритмы обработки информации 3к2с\Practice work 2\Practice work 2\Practice work 2\obj\Debug\Practice work 2.csproj.AssemblyReference.cache
+C:\Users\perfe\OneDrive\ЯрГУ\Алгоритмы обработки информации 3к2с\Practice work 2\Practice work 2\Practice work 2\obj\Debug\Practice work 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\perfe\OneDrive\ЯрГУ\Алгоритмы обработки информации 3к2с\Practice work 2\Practice work 2\Practice work 2\obj\Debug\Practice work 2.csproj.CoreCompileInputs.cache
+C:\Users\perfe\OneDrive\ЯрГУ\Алгоритмы обработки информации 3к2с\Practice work 2\Practice work 2\Practice work 2\bin\Debug\Practice work 2.exe.config
+C:\Users\perfe\OneDrive\ЯрГУ\Алгоритмы обработки информации 3к2с\Practice work 2\Practice work 2\Practice work 2\bin\Debug\Practice work 2.exe
+C:\Users\perfe\OneDrive\ЯрГУ\Алгоритмы обработки информации 3к2с\Practice work 2\Practice work 2\Practice work 2\bin\Debug\Practice work 2.pdb
+C:\Users\perfe\OneDrive\ЯрГУ\Алгоритмы обработки информации 3к2с\Practice work 2\Practice work 2\Practice work 2\obj\Debug\Practice work 2.exe
+C:\Users\perfe\OneDrive\ЯрГУ\Алгоритмы обработки информации 3к2с\Practice work 2\Practice work 2\Practice work 2\obj\Debug\Practice work 2.pdb
